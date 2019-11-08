@@ -1,0 +1,2 @@
+include ':app', ':modules:fd'
+rootProject.name = 'FdMonitor'
